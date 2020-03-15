@@ -1,11 +1,11 @@
 {
   "name": "@mk816017/test1",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "測試發布",
   "main": "./bin/test.js",
   "repository": {
     "type": "git",
-    "url": "https://https://github.com/ZhongYouLu/npm-test1"
+    "url": "https://github.com/ZhongYouLu/npm-test1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
